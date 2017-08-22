@@ -46,6 +46,7 @@
 |科学、技术、工程和数学|http://microduinoinc.com|
 |Arduino智造|http://arduino.ncnynl.com|
 |硬件开发|https://www.wevolver.com/projects|
+|制作玩具|http://makezine.com|
 # the technologies of media
 |web name|web url|
 |:----:|:-----:|
@@ -58,6 +59,7 @@
 |果壳网|http://www.guokr.com|
 |电子火花|http://www.elecspark.com|
 |开源中国|http://www.oschina.net|
+|中国科技结晶论坛|http://tcs-forum.miniban.cn|
 |The Verge|https://www.theverge.com|
 |TechCrunch|https://techcrunch.com|
 |Hacker News|https://news.ycombinator.com|
