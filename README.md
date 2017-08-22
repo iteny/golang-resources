@@ -39,3 +39,31 @@
 |web name|web url|
 |:----:|:-----:|
 |DF创客社区|http://www.dfrobot.com.cn|
+|arduino|http://www.arduino.cn|
+|极客工坊|http://www.geek-workshop.com|
+|instructables|http://www.instructables.com|
+|arduino社区|http://zhongbest.com|
+|科学、技术、工程和数学|http://microduinoinc.com|
+|Arduino智造|http://arduino.ncnynl.com|
+|硬件开发|https://www.wevolver.com/projects|
+# the technologies of media
+|web name|web url|
+|:----:|:-----:|
+|钛媒体|http://www.tmtpost.com|
+|极客公园|http://www.geekpark.net|
+|36氪|http://36kr.com|
+|虎嗅|https://www.huxiu.com|
+|爱范儿|http://www.ifanr.com|
+|雷锋网|https://www.leiphone.com|
+|果壳网|http://www.guokr.com|
+|电子火花|http://www.elecspark.com|
+|开源中国|http://www.oschina.net|
+|The Verge|https://www.theverge.com|
+|TechCrunch|https://techcrunch.com|
+|Hacker News|https://news.ycombinator.com|
+|iRevolutions|https://irevolutions.org|
+|Mashable|http://mashable.com|
+|创酷网|http://www.chuangkoo.com|
+|DIY电子元件|https://www.adafruit.com|
+|电子元件市场|https://www.seeedstudio.com|
+|网站收集|http://website.ncnynl.com|
