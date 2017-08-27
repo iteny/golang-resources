@@ -34,7 +34,7 @@
 |Peter Mattis|https://github.com/petermattis/goid|通过程序检索当前goroutine里的ID，看 [the CI configuration](https://github.com/petermattis/goid/blob/master/.travis.yml) 支持golang版本。|
 |Davy xu|https://github.com/davyxu/cellnet|cellnet是一个高性能，简单，方便的开源服务器网络库|
 | ecofast |https://github.com/ecofast/minifileserver|迷你文件下载服务器|
-|shirou|https://github.com/shirou/gopsutil|查看go程序系统信息，CPU，内存等|
+|shirou|https://github.com/shirou/gopsutil|查看本机系统信息，CPU，内存等|
 |google rakyll|https://github.com/google/gops|列出与诊断系统中正在使用的Go程序|
 
 # makerspace
