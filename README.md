@@ -35,6 +35,7 @@
 |Davy xu|https://github.com/davyxu/cellnet|cellnet是一个高性能，简单，方便的开源服务器网络库|
 | ecofast |https://github.com/ecofast/minifileserver|迷你文件下载服务器|
 |shirou|https://github.com/shirou/gopsutil|查看go程序系统信息，CPU，内存等|
+|google rakyll|https://github.com/google/gops|列出与诊断系统中正在使用的Go程序|
 
 # makerspace
 |web name|web url|
