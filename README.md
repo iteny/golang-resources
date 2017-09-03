@@ -13,6 +13,8 @@
 
 • [golang web examples](https://gowebexamples.com)
 
+• [golang standard library example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+
 • [常见问题](https://golang.org/doc/faq)
 
 • [标准库文档](https://golang.org/pkg/)
@@ -38,6 +40,7 @@
 | ecofast |https://github.com/ecofast/minifileserver|迷你文件下载服务器|
 |shirou|https://github.com/shirou/gopsutil|查看本机系统信息，CPU，内存等|
 |google rakyll|https://github.com/google/gops|列出与诊断系统中正在使用的Go程序|
+|google glog|https://github.com/golang/glog|谷歌日志包|
 
 # makerspace
 |web name|web url|
