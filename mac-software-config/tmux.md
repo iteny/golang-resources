@@ -35,7 +35,15 @@ bind -n S-Right next-window
 
 # Mouse mode
 set -g mouse on
-
+# Set status bar
+set -g status-bg black
+set -g status-fg white
+set -g status-interval 5
+set -g status-left-length 90
+set -g status-right-length 60
+set -g status-left "#[fg=Green]#(hostname -s)#[fg=white]->#[fg=blue]#(whoami)#[fg=white]->#[fg=yellow]#(curl ipecho.net/plain;echo)#->"
+set -g status-justify left
+set -g status-right "#[fg=Cyan]#S"
 
 # Set easier window split keys
 bind-key v split-window -h
