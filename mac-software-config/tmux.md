@@ -36,14 +36,16 @@ bind -n S-Right next-window
 # Mouse mode
 set -g mouse on
 # Set status bar
+set -g status on
 set -g status-bg black
 set -g status-fg white
 set -g status-interval 5
+set -g default-terminal "screen-256color"
 set -g status-left-length 90
 set -g status-right-length 60
-set -g status-left "#[fg=Green]#(hostname -s)#[fg=white]->#[fg=blue]#(whoami)#[fg=white]->#[fg=yellow]#(curl ipecho.net/plain;echo)#->"
+set -g status-left "#[fg=green]HostName:[#[fg=Cyan]#(hostname -s)#[fg=Cyan]] #[fg=green]User:[#[fg=blue]#(whoami)#[fg=green]] #[fg=green]Ip:[#[fg=yellow]#(curl ipecho.net/plain;echo)#[fg=green]] #[fg=green]ProgramName=>"
 set -g status-justify left
-set -g status-right "#[fg=Cyan]#S"
+set -g status-right "#[fg=green]Session:[#[fg=Cyan]#S#[fg=green]] #[fg=green]Time:[#[fg=cyan]%Y-%m-%d %H:%M:%S#[fg=green]]"
 
 # Set easier window split keys
 bind-key v split-window -h
@@ -69,3 +71,17 @@ Set easier window split keys
 
 Easy config reload
 下一次如果修改了.tmux.conf的设置的话，不用关掉tmux。直接用prefix+r,就能重新加载设置。
+set -g status on
+set -g status-utf8 on                      # 开启状态栏的UTF-8支持
+set -g status-bg blue
+set -g status-fg '#bbbbbb'
+set -g status-left-fg green
+set -g status-left-bg blue
+set -g status-right-fg green
+set -g status-right-bg blue
+set -g status-left-length 10               # 状态栏左方的内容长度；
+set -g status-right-length 15              # 状态栏右方的内容长度；建议把更多的空间留给状态栏左方（用于列出当前窗口）
+set -g status-left '[#(whoami)]'           # 状态栏左方的内容
+set -g status-right '[#(date +" %y-%m-%d %H:%M:%S ")]'     # 状态栏右方的内容；这里的设置将得到类似23:59的显示
+set -g status-justify "centre"             # 窗口列表居中显示
+set -g default-terminal "screen-256color"  # 支持256色显示
