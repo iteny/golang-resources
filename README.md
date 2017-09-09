@@ -42,6 +42,9 @@
 |google rakyll|https://github.com/google/gops|列出与诊断系统中正在使用的Go程序|
 |google glog|https://github.com/golang/glog|谷歌日志包|
 |嵌入式键值对数据库|https://github.com/boltdb/bolt|类似缓存文件|
+|youtube vitess|https://github.com/youtube/vitess|Mysql前端 提供RPC接口|
+|coreos etcd|https://github.com/coreos/etcd|分布式的key-value存储系统，服务发现，保证集群数据不丢失。|
+|HashiCorp consul|https://github.com/hashicorp/consul|支持多数据中心分布式高可用的服务发现和配置共享,允许 HTTP 和 DNS 协议调用 API 存储键值对,类似etcd|
 
 # makerspace
 |web name|web url|
