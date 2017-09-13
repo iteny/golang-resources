@@ -45,6 +45,9 @@
 |youtube vitess|https://github.com/youtube/vitess|Mysql前端 提供RPC接口|
 |coreos etcd|https://github.com/coreos/etcd|分布式的key-value存储系统，服务发现，保证集群数据不丢失。|
 |HashiCorp consul|https://github.com/hashicorp/consul|支持多数据中心分布式高可用的服务发现和配置共享,允许 HTTP 和 DNS 协议调用 API 存储键值对,类似etcd|
+|alexedwards|https://github.com/alexedwards/scs|一个http session管理器|
+|uber优步|https://github.com/uber-go/zap|直接结构体日志|
+|rs|https://github.com/rs/zerolog|json日志|
 
 # makerspace
 |web name|web url|
