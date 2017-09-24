@@ -32,6 +32,11 @@
 • [golang每周有见地的文章，教程，项目，视频](http://importgolang.com/newsletter/)
 
 • [golang GitHub wiki learn](https://github.com/golang/go/wiki/Learn)
+
+##个人收藏资源
+[中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)
+[英文版awesome-go](https://github.com/avelino/awesome-go)
+[中文版标准库](http://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
 # golang-open-sources
 |作者|github.com地址|功能描述|
 |:-------:|:-------:|:--------:|
@@ -48,6 +53,8 @@
 |alexedwards|https://github.com/alexedwards/scs|一个http session管理器|
 |uber优步|https://github.com/uber-go/zap|直接结构体日志|
 |rs|https://github.com/rs/zerolog|json日志|
+|asaskevich|https://github.com/asaskevich/govalidator|数据验证|
+|jgsqware|https://github.com/spf13/viper|支持JSON, TOML, YAML, HCL配置文件|
 
 # makerspace
 |web name|web url|
