@@ -1,5 +1,6 @@
 |插件名称(点击主页)|功能描述|点赞数|
 |:-----|:-----|:------|
+|[jQuery](https://github.com/jquery/jquery)|js库|4.7万stars|
 |[Bootstrap](https://github.com/twbs/bootstrap)|响应式布局框架|12万stars|
 |[Font Awesome](https://github.com/FortAwesome/Font-Awesome)|字体图标库|5.5万stars|
 |[jQuery-Autocomplete](https://github.com/devbridge/jQuery-Autocomplete)|让表单具备提示自动完成|0.26万stars|
@@ -13,7 +14,7 @@
 |[easy-pie-chart](https://github.com/rendro/easy-pie-chart)|轻量级动画饼图|0.2万stars|
 |[echarts](https://github.com/ecomfe/echarts)|百度js图表库|2万stars|
 |[bootstrap-wysiwyg](https://github.com/steveathon/bootstrap-wysiwyg)|为bootstrap定制微型的富文本编辑器|0.05万stars|
-|morris.js(https://github.com/morrisjs/morris.js)|绘制线状图|0.6万stars|
+|[morris.js](https://github.com/morrisjs/morris.js)|绘制线状图|0.6万stars|
 |[flot](https://github.com/flot/flot)|绘制线状图和柱状图图表|0.5万stars|
 |[gauge.js](https://github.com/bernii/gauge.js)|动画仪表盘|0.1万stars|
 |[icheck](https://github.com/fronteed/icheck/tree/1.x)|checkbox，radio美化|0.7万stars|
@@ -21,4 +22,18 @@
 |[ion.rangeSlider](https://github.com/IonDen/ion.rangeSlider)|易于定制的范围滑块，支持自定义皮肤|0.2万stars|
 |[jvectormap](https://github.com/bjornd/jvectormap)|矢量SVG地图支持缩放|0.1万stars|
 |[momentjs](https://github.com/moment/moment)|JavaScript 日期处理类库|3.3万stars|
-||||
+|[pnotify](https://github.com/sciactive/pnotify)|消息通知，类似mac通知中心|0.3万stars|
+|[nprogress](https://github.com/rstacruz/nprogress)|轻量级进度条|1.5万stars|
+|[pace](https://github.com/HubSpot/pace)|网页自动进度条|1.3万stars|
+|[Parsley.js](https://github.com/guillaumepotier/Parsley.js)|不用写js代码的验证库|0.8万stars|
+|[bootstrap-progressbar](https://github.com/minddust/bootstrap-progressbar)|bootstrap进度条|0.06万stars|
+|[select2](https://github.com/select2/select2)|支持搜索和远程数据的选择框|2.1万stars|
+|[SidebarTransitions](https://github.com/codrops/SidebarTransitions)|边栏隐藏动画效果|0.2万stars|
+|[skycons](https://github.com/darkskyapp/skycons)|10款天气预报动画图标|0.1万stars|
+|[jquery.sparkline](https://github.com/gwatts/jquery.sparkline)|生成迷你图表|0.1万stars|
+|[switchery](https://github.com/abpetkov/switchery)|开关按钮|0.2万stars|
+|[jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input)|input里添加/删除标签|0.2万stars|
+|[autosize](https://github.com/jackmoore/autosize)|让textare自动增加高度，不会显示滚动条|0.3万stars|
+|[jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)|文件上传|2.7万stars|
+|[validator.js](https://github.com/chriso/validator.js)|数据验证库|0.8万stars|
+|[smart-wizard](https://github.com/mstratman/jQuery-Smart-Wizard)|流程步骤控制，更好的用户体验|0.03stars|
