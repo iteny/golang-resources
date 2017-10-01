@@ -37,3 +37,4 @@
 |[jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)|文件上传|2.7万stars|
 |[validator.js](https://github.com/chriso/validator.js)|数据验证库|0.8万stars|
 |[smart-wizard](https://github.com/mstratman/jQuery-Smart-Wizard)|流程步骤控制，更好的用户体验|0.03stars|
+|[sweetalert](https://github.com/t4t5/sweetalert)|对话框插件|1.7万stars|
