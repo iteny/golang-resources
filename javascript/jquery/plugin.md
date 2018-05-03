@@ -38,3 +38,16 @@
 |[validator.js](https://github.com/chriso/validator.js)|数据验证库|0.8万stars|
 |[smart-wizard](https://github.com/mstratman/jQuery-Smart-Wizard)|流程步骤控制，更好的用户体验|0.03stars|
 |[sweetalert](https://github.com/t4t5/sweetalert)|对话框插件|1.7万stars|
+|[sweetalert](https://github.com/t4t5/sweetalert)|对话框插件|1.7万stars|
+|[sweetalert](https://github.com/t4t5/sweetalert)|对话框插件|1.7万stars|
+|[sweetalert](https://github.com/t4t5/sweetalert)|对话框插件|1.7万stars|
+|[sweetalert](https://github.com/t4t5/sweetalert)|对话框插件|1.7万stars|
+|[swiper](https://github.com/nolimits4web/swiper)|强大的移动端轮播插件|1.6万stars|
+|[bootstrap-select](https://github.com/silviomoreto/bootstrap-select/)|select的插件|0.7万stars|
+|[Modernizr](https://github.com/Modernizr/Modernizr)|用于检测用户浏览器的 HTML5 与 CSS3 是否支持|1.7万stars|
+|[hammer](https://github.com/hammerjs/hammer.js/)|优秀的触屏设备手势库|1.8万stars|
+|[parallax](https://github.com/wagerfield/parallax)|视觉差插件|1.2万stars|
+|[skrollr](https://github.com/Prinzhorn/skrollr)|视觉差插件|1.8万stars|
+|[simple-text-rotator](https://github.com/peachananr/simple-text-rotator)|简单的文字动画插件|0.1万stars|
+|[Wow](https://github.com/matthieua/WOW)|动画特效|0.8万stars|
+|[Isotope](https://github.com/metafizzy/isotope)|可以实现仅仅依靠CSS3无法实现的动态布局方式，可以动态添加，删除，排序，筛选元素|0.9万stars|
