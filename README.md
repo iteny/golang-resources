@@ -90,3 +90,10 @@
 |DIY电子元件|https://www.adafruit.com|
 |电子元件市场|https://www.seeedstudio.com|
 |网站收集|http://website.ncnynl.com|
+
+
+export MYSQL=/usr/local/mysql/bin
+export GOROOT=/usr/local/go
+export GOPATH=/Users/zb/work/gopath
+export GOBIN=/Users/zb/work/gopath/bin
+export PATH=$PATH:$GOROOT:$GOPATH:$GOBIN:$MYSQL
