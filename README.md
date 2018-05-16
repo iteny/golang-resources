@@ -93,7 +93,11 @@
 
 
 export MYSQL=/usr/local/mysql/bin
+
 export GOROOT=/usr/local/go
+
 export GOPATH=/Users/zb/work/gopath
+
 export GOBIN=/Users/zb/work/gopath/bin
+
 export PATH=$PATH:$GOROOT:$GOPATH:$GOBIN:$MYSQL
