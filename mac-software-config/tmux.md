@@ -1,4 +1,5 @@
 ##tmux命令
+brew install reattach-to-user-namespace 安装mac新版本的依赖
 ```
 vim ~/.tmux.conf            //tmux配置文件
 brew install tmux           //安装tmux
@@ -15,6 +16,7 @@ prefix + %  //水平分割pane
 prefix + "  //竖直分割pane
 prefix + z  //把当前一个pane放大
 exit        //直接输出退出pane,当只有一个pane时，退出整个session
+
 ```
 ##tmux.conf
 ```
@@ -85,3 +87,4 @@ set -g status-left '[#(whoami)]'           # 状态栏左方的内容
 set -g status-right '[#(date +" %y-%m-%d %H:%M:%S ")]'     # 状态栏右方的内容；这里的设置将得到类似23:59的显示
 set -g status-justify "centre"             # 窗口列表居中显示
 set -g default-terminal "screen-256color"  # 支持256色显示
+set -g default-command "reattach-to-user-namespace -l bash"
